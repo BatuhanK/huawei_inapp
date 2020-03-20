@@ -1,0 +1,19 @@
+{
+  "name": "huawei_inapp",
+  "version": "0.0.1",
+  "description": "not ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
